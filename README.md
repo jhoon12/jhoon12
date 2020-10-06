@@ -1,4 +1,20 @@
-### Hi there 👋
+### 🐶 Info
+---
+18살 SW마이스터고등학교에 재학중인 front-end 개발자
+
+### 📚 in Study
+---
+javascript
+react
+### 🧐 interested in
+---
+UI,UX
+typescript
+### 📖 Language
+javascript
+### ✉️ Email
+---
+yukihoon12@gmail.com
 
 <!--
 **jhoon12/jhoon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

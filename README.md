@@ -1,15 +1,15 @@
 ## 🐶 Info
 18살 SW마이스터고등학교에 재학중인 front-end 개발자
----
+
 ## 📚 in Study
 javascript
 react
 ## 🧐 interested in
 UI,UX
 typescript
-# 📖 Language
+## 📖 Language
 javascript
-# ✉️ Email
+## ✉️ Email
 yukihoon12@gmail.com
 
 <!--

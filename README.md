@@ -6,9 +6,8 @@ javascript
 react
 ## 🧐 interested in
 UI,UX
-typescript
 ## 📖 Language
-javascript
+javascript, typescript
 ## ✉️ Email
 yukihoon12@gmail.com
 
